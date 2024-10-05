@@ -1,8 +1,5 @@
 # project_analisa_data
 
-## Ikhtisar
-Proyek ini menyediakan analisis mendalam mengenai dataset penyewaan sepeda. Analisis bertujuan untuk mengungkap pola-pola dalam penyewaan sepeda lintas musim, perbandingan hari kerja dengan akhir pekan, serta jenis pengguna. Repositori ini meliputi notebook analisis serta dashboard Streamlit untuk eksplorasi data interaktif.
-
 ## Penulis
 - **Nama:** Irfan Pandu Aji
 - **Email:** ( panduaji7972@gmail.com )
