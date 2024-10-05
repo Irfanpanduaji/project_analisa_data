@@ -13,6 +13,13 @@
 - Notebook Jupyter dapat dilihat langsung di GitHub atau dijalankan dalam lingkungan yang mendukung Jupyter Notebook Python.
 - Dashboard Streamlit dapat dijalankan secara lokal dengan navigasi ke direktori `dashboard/` dan menjalankan `streamlit run dashboard.py`.
 
+## Cara menjalankan Streamlit dengan Localhost server anda
+- Pertama anda mengunduh dataset yang tertera di atas dengan format .csv
+- Kedua anda menjalankan code (dashboard.py) ke dalam EDA kesukaan anda
+- Ketiga mengunduh Streamlit.io pada Command anda dengan menulis ( pip install streamlit )
+- Keempat apabila anda sudah selesai mengunduh maka membuka file ( dashboard.py ) anda di comand dengan perintah [ streamlit run dashboard.py ]
+- Kelima dashboard terlihat di web anda
+
 ## Dashboard
 Dashboard Streamlit mencakup fitur-fitur berikut:
 - Tampilan interaktif dari data mentah dan statistik ringkasan.
