@@ -4,8 +4,8 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-hour_df = pd.read_csv("D:\\rrrr\\hour.csv")
-day_df = pd.read_csv("D:\\rrrr\\day.csv")
+hour_df = pd.read_csv("day.csv")
+day_df = pd.read_csv("hour.csv")
 
 def detect_outliers(df, column):
     q25, q75 = np.percentile(df[column], 25), np.percentile(df[column], 75)
